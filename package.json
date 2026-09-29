@@ -1,0 +1,11 @@
+{
+  "name": "cookiejar",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Node.js 22 HTTP cookie jar (RFC 6265 subset) with incremental indexing.",
+  "scripts": {
+    "test": "node --test",
+    "check": "node check/check.mjs"
+  }
+}
